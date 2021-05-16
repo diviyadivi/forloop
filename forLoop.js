@@ -8,7 +8,6 @@ for (let i = 1; i <= n; i++) {
 }
 console.log(number);
 
-
 let n = 3;
 for (let i = 1; i <= n; i++) {
     for (let j = 1; j <= i; j++) {
@@ -16,7 +15,6 @@ for (let i = 1; i <= n; i++) {
     }
     console.log("\n");
 }
-
 
 let n = 3;
 let number=0;
